@@ -1,2 +1,4 @@
-request==2.32.3
-streamlit==1.41.1
+pandas
+requests
+request
+streamlit
