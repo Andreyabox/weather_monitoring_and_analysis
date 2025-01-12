@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-from datetime import datetime
-import plotly.graph_objs as go
-import plotly.express as px
 
 # Функция для проверки валидности API Key
 def input_api_key(api_key, city):
